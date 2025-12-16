@@ -1,2 +1,15 @@
-this is the readme file for Brandon Deboer is a Scammer website.
-this is the official site for Brandon Deboer.  He is a serial Scammer and Psychopath. 
+# Brandon Deboer Scam Warning Site
+
+**Purpose**: Public awareness page detailing scam allegations against Brandon Deboer (LQ1 Media, Meta account recovery fraud). Built as a single-page site for quick loading and SEO targeting "Brandon Deboer scam" keywords. [web:29]
+
+## Features
+- Responsive design for mobile/desktop.
+- Anchor links to sections (e.g., evidence, protection tips).
+- WhatsApp contact button for victim reports.
+- Optimized for Google indexing with sitemap.xml and robots.txt.
+
+## File Structure
+
+
+
+
